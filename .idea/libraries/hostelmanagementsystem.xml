@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hostelmanagementsystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hostel_Management_System-main/out/production/Hostel_Management_System-main/hostelmanagementsystem/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hostel_Management_System-main/out/production/Hostel_Management_System-main/hostelmanagementsystem/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hostel_Management_System-main/out/production/Hostel_Management_System-main/hostelmanagementsystem/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
